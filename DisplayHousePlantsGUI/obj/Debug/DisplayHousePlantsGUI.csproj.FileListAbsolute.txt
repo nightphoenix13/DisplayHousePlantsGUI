@@ -1,0 +1,9 @@
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\DisplayHousePlantsGUI\DisplayHousePlantsGUI\bin\Debug\DisplayHousePlantsGUI.exe.config
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\DisplayHousePlantsGUI\DisplayHousePlantsGUI\bin\Debug\DisplayHousePlantsGUI.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\DisplayHousePlantsGUI\DisplayHousePlantsGUI\bin\Debug\DisplayHousePlantsGUI.pdb
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\DisplayHousePlantsGUI\DisplayHousePlantsGUI\obj\Debug\DisplayHousePlantsGUI.csprojResolveAssemblyReference.cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\DisplayHousePlantsGUI\DisplayHousePlantsGUI\obj\Debug\DisplayHousePlantsGUI.Form1.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\DisplayHousePlantsGUI\DisplayHousePlantsGUI\obj\Debug\DisplayHousePlantsGUI.Properties.Resources.resources
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\DisplayHousePlantsGUI\DisplayHousePlantsGUI\obj\Debug\DisplayHousePlantsGUI.csproj.GenerateResource.Cache
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\DisplayHousePlantsGUI\DisplayHousePlantsGUI\obj\Debug\DisplayHousePlantsGUI.exe
+C:\Users\Phoenix\Desktop\Tech & Coding Tools\Coding Projects\DisplayHousePlantsGUI\DisplayHousePlantsGUI\obj\Debug\DisplayHousePlantsGUI.pdb
